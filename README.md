@@ -1,4 +1,4 @@
-# node-policy
+# express-policy
 
 Inspired by [Sails.js Policies](http://sailsjs.com/documentation/concepts/policies)
 
